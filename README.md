@@ -1,7 +1,11 @@
-[![Build Status](https://travis-ci.org/MarcusSchwarz/lesserphp.svg)](https://travis-ci.org/MarcusSchwarz/lesserphp)
+# lesserphp v1.0.1
+### <https://github.com/angusaust/angus-lesserphp>
 
-# lesserphp v0.6.0
-### <http://github.com/MarcusSchwarz/lesserphp>
+## Installation
+
+```console
+$ composer require angus/lesserphp
+```
 
 `lesserphp` is a compiler for LESS written in PHP. It is based on lessphp bei leafo.
 The documentation is great,
